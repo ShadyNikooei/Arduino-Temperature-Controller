@@ -36,7 +36,7 @@ This project was developed and tested using the following tools:
 
 You can find the complete circuit diagram for this project below:
 
-*(Here you can add a screenshot of your circuit or simulation)*
+*![My Arduino Uno Board](https://github.com/ShadyNikooei/Arduino-Temperature-Controller/blob/main/Glorious%20Lappi.png)*
 ``
 
 
