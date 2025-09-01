@@ -10,7 +10,6 @@ A simple yet practical project that uses an Arduino UNO to automatically control
 -   **LED Simulation:** The fan and heater operations are simulated using two distinct LEDs.
 -   **Serial Data Output:** Continuously sends temperature data to the computer, which can be visualized using the Arduino Serial Plotter.
 
----
 
 ## Components Required
 
@@ -24,7 +23,6 @@ A simple yet practical project that uses an Arduino UNO to automatically control
 | Breadboard                 |    1     |
 | Jumper Wires               | Several  |
 
----
 
 ## Tools and Software
 
@@ -35,7 +33,6 @@ This project was developed and tested using the following tools:
 -   **Simulation Environment:** Autodesk Tinkercad (Web-based)
 -   **Hardware:** Arduino Uno
 
----
 
 ## Wiring Diagram
 
@@ -44,7 +41,6 @@ You can find the complete circuit diagram for this project below:
 *(Here you can add a screenshot of your circuit or simulation)*
 ``
 
----
 
 ## Getting Started
 
@@ -57,7 +53,6 @@ You can find the complete circuit diagram for this project below:
 
 The system will start working automatically after the upload is complete. You can test its functionality by heating or cooling the temperature sensor and observing the LEDs and the 7-segment display.
 
----
 
 ## Programmer
 
