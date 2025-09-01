@@ -13,15 +13,13 @@ A simple yet practical project that uses an Arduino UNO to automatically control
 
 ## Components Required
 
-| Component                  | Quantity |
-| :------------------------- | :------: |
-| Arduino Uno Board          |    1     |
-| LM35 (or TMP36) Sensor     |    1     |
-| 7-Segment Display (Common Cathode) |    2     |
-| LEDs (any color)           |    2     |
-| 220 Ohm Resistor           |    2     |
-| Breadboard                 |    1     |
-| Jumper Wires               | Several  |
+-   **Arduino Uno Board:** x1
+-   **LM35 (or TMP36) Sensor:** x1
+-   **7-Segment Display (Common Cathode):** x2
+-   **LEDs (any color):** x2
+-   **220 Ohm Resistors:** x2
+-   **Breadboard:** x1
+-   **Jumper Wires:** Several
 
 
 ## Tools and Software
