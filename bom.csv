@@ -1,0 +1,6 @@
+﻿Name,Quantity,Component
+"UUNO",1," Arduino Uno R3"
+"UTMP36",1," Temperature Sensor [TMP36]"
+"DLEDHeater, DLEDFan",2,"Red LED"
+"RResistor1, RResistor2",2,"220 kΩ Resistor"
+"Digit7-Segment Display111, Digit7-Segment Display27",2,"Anode 7 Segment Display"
